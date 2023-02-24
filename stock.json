@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Samsung Galaxy S23",
+        "precio": "300000"
+    },
+
+    {
+        "nombre": "iPhone 14 Pro",
+        "precio": "500000"
+    },
+
+    {
+        "nombre": "iPhone 13 Pro Max",
+        "precio": "400000"
+    }
+]

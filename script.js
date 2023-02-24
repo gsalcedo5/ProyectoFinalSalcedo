@@ -75,7 +75,9 @@ btnStock.addEventListener('click',() => {               //Visualizo el Stock y l
 
 btnClear.addEventListener('click',() => {     // Brindo la opcion de resetear el programa      
     stock.innerHTML  = "";
+    stockTitulo.innerHTML  = "";
     listaProd.innerHTML = "";
+    costoFinal.innerHTML = "";
     window.localStorage.clear();
     Productos =[]                            //Debido a esta linea declaro el array con let en lugar de const.
 })
